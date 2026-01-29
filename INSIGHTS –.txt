@@ -1,0 +1,13 @@
+INSIGHTS –  
+
+1. Customer sales are highly concentrated within each region.
+   A small number of customers consistently rank at the top, indicating
+   key accounts that drive regional revenue.
+
+2. Month-over-month analysis shows noticeable fluctuations in sales.
+   Certain months exhibit strong growth, while others show decline,
+   highlighting seasonal demand patterns.
+
+3. Using DENSE_RANK ensured fair ranking when customers or products
+   had equal sales, preventing gaps in rankings and improving
+   analytical accuracy.
